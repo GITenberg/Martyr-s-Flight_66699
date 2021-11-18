@@ -1,0 +1,25 @@
+_repo: Martyr-s-Flight_66699
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Searls, Hank
+    gutenberg_agent_id: '53921'
+    url: http://www.gutenberg.org/2009/agents/53921
+description: ''
+gutenberg_issued: '2021-11-10'
+identifiers:
+  gutenberg: '66699'
+language: en
+pgterms:marc905: 20210313065355searls
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1955.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Martyr's Flight
+url: http://www.gutenberg.org/ebooks/66699
